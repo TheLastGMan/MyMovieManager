@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Web", "Web\Web.vbproj", "{501D3BFF-ABCE-447B-8B98-5C9AEC9CD43B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Core", "Core\Core.vbproj", "{CCAABEBB-36A8-40F7-B0CB-FBC1556699EC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Services", "Services\Services.vbproj", "{4B618045-9D6F-49B1-A0FE-DA03EBF2E7F2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RottenTomatoeAPI", "..\RottenTomatoeAPI\RottenTomatoeAPI.vbproj", "{BC2B7999-B12C-4244-8158-8BC2304CE92B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data", "Data\Data.vbproj", "{3F84C1DF-787E-4050-AB7C-954C90775E2E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NetFlixAPI", "NetFlixAPI\NetFlixAPI.vbproj", "{7551F098-0E00-467C-8EB9-1A1F28275FB2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RSSGenerator", "..\RSSGenerator\RSSGenerator.vbproj", "{F7755897-4AAF-4716-9597-09FDDFC8E499}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rpgcor.tfspreview.com/defaultcollection
+		SccProjectUniqueName0 = Web\\Web.vbproj
+		SccProjectName0 = Web
+		SccAuxPath0 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath0 = Web
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = Core\\Core.vbproj
+		SccProjectName1 = Core
+		SccAuxPath1 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath1 = Core
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = Services\\Services.vbproj
+		SccProjectName2 = Services
+		SccAuxPath2 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath2 = Services
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = ..\\RottenTomatoeAPI\\RottenTomatoeAPI.vbproj
+		SccProjectName3 = ../RottenTomatoeAPI
+		SccAuxPath3 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath3 = ..\\RottenTomatoeAPI
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName4 = Data\\Data.vbproj
+		SccProjectName4 = Data
+		SccAuxPath4 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath4 = Data
+		SccProvider4 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName5 = NetFlixAPI\\NetFlixAPI.vbproj
+		SccProjectName5 = NetFlixAPI
+		SccAuxPath5 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath5 = NetFlixAPI
+		SccProvider5 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName6 = ..\\RSSGenerator\\RSSGenerator.vbproj
+		SccProjectName6 = ../RSSGenerator
+		SccAuxPath6 = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath6 = ..\\RSSGenerator
+		SccProvider6 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501D3BFF-ABCE-447B-8B98-5C9AEC9CD43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501D3BFF-ABCE-447B-8B98-5C9AEC9CD43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501D3BFF-ABCE-447B-8B98-5C9AEC9CD43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501D3BFF-ABCE-447B-8B98-5C9AEC9CD43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAABEBB-36A8-40F7-B0CB-FBC1556699EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAABEBB-36A8-40F7-B0CB-FBC1556699EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAABEBB-36A8-40F7-B0CB-FBC1556699EC}.Release|Any CPU.ActiveCfg = NewDebug|Any CPU
+		{CCAABEBB-36A8-40F7-B0CB-FBC1556699EC}.Release|Any CPU.Build.0 = NewDebug|Any CPU
+		{4B618045-9D6F-49B1-A0FE-DA03EBF2E7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B618045-9D6F-49B1-A0FE-DA03EBF2E7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B618045-9D6F-49B1-A0FE-DA03EBF2E7F2}.Release|Any CPU.ActiveCfg = NewDebug|Any CPU
+		{4B618045-9D6F-49B1-A0FE-DA03EBF2E7F2}.Release|Any CPU.Build.0 = NewDebug|Any CPU
+		{BC2B7999-B12C-4244-8158-8BC2304CE92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2B7999-B12C-4244-8158-8BC2304CE92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2B7999-B12C-4244-8158-8BC2304CE92B}.Release|Any CPU.ActiveCfg = NewDebug|Any CPU
+		{BC2B7999-B12C-4244-8158-8BC2304CE92B}.Release|Any CPU.Build.0 = NewDebug|Any CPU
+		{3F84C1DF-787E-4050-AB7C-954C90775E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F84C1DF-787E-4050-AB7C-954C90775E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F84C1DF-787E-4050-AB7C-954C90775E2E}.Release|Any CPU.ActiveCfg = NewDebug|Any CPU
+		{3F84C1DF-787E-4050-AB7C-954C90775E2E}.Release|Any CPU.Build.0 = NewDebug|Any CPU
+		{7551F098-0E00-467C-8EB9-1A1F28275FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7551F098-0E00-467C-8EB9-1A1F28275FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7551F098-0E00-467C-8EB9-1A1F28275FB2}.Release|Any CPU.ActiveCfg = NewDebug|Any CPU
+		{7551F098-0E00-467C-8EB9-1A1F28275FB2}.Release|Any CPU.Build.0 = NewDebug|Any CPU
+		{F7755897-4AAF-4716-9597-09FDDFC8E499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7755897-4AAF-4716-9597-09FDDFC8E499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7755897-4AAF-4716-9597-09FDDFC8E499}.Release|Any CPU.ActiveCfg = NewDebug|Any CPU
+		{F7755897-4AAF-4716-9597-09FDDFC8E499}.Release|Any CPU.Build.0 = NewDebug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿.main_container{
+    min-width:375px;
+}
+
+.TitleSequence{
+    font-size:36px;
+}
+
+.animate, .animate .container{
+    visibility:hidden;
+    width:0;
+}
+
+.search_result .posterbox {
+    width:10%;
+}
+
+.search_result .posterbox .Movie_Poster {
+    width:auto;
+    height:75px;
+}
+
+.search_result .titlebox {
+    font-size:0.75em;
+}
+
+.search_result .nflink{
+    width:0px;
+    visibility:hidden;
+}
+
+.search_result .movieposition {
+    font-size:27px;
+    width:10%;
+}
